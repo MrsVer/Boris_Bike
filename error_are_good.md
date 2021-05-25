@@ -1,10 +1,10 @@
-<!-- Traceback (most recent call last):
+Traceback (most recent call last):
         4: from /Users/zsuzsannaver/.rvm/rubies/ruby-3.0.0/bin/irb:23:in `<main>'
         3: from /Users/zsuzsannaver/.rvm/rubies/ruby-3.0.0/bin/irb:23:in `load'
         2: from /Users/zsuzsannaver/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/irb-1.3.0/exe/irb:11:in `<top (required)>'
         1: from (irb):1:in `<main>'
 NameError (uninitialized constant DockingStation)
-3.0.0 :002 >  -->
+3.0.0 :002 >  
 
 Write down the type of error
 - Name Error(NameError is raised when you reference a constant or a variable which isn't defined in the current context.)

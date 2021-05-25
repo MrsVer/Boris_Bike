@@ -13,10 +13,7 @@ verbs = [use, docking, release, use, see, working]
 Objects   |  Messages
 ----------| ---------
 Person    | 
-Bike      | working?
-          | use
-          | see
-
+Bike      | working?, use, see
 Docking_station | release_bike
 
 Bike <-- working? --> true/false
